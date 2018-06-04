@@ -36,7 +36,7 @@
             <th>Help</th>
         </tr>
         <tr>
-            <td>Top 20</td>
+            <td>Top 10 anime betrayals</td>
             <td>Actie</td>
             <td>gehuurde films</td>
             <td>instellingen</td>
