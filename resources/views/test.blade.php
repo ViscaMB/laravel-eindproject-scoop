@@ -59,7 +59,7 @@
         </tr>
         <tr>
             <td>Aanbevelingen</td>
-            <td>Familiefilm</td>
+
         </tr>
         <tr>
             <td>Top 100</td>
